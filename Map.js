@@ -29,3 +29,24 @@ let newvalue= num.reduce((acc,crr) => {
 console.log(newvalue);
 
 
+let Data = [ {                                  // API Data yesa dikhta hai...
+    name: "prachi",
+    age: 21,
+    city: "Bhopal"
+
+}, {
+    name: "shubh",
+    age: 27,
+    city: "Nagpur"
+
+}, {
+    name: "sarika",
+    age: 30,
+    city: "Sausar"
+} ]
+
+let NewData= Data.map((e) => {
+    console.log(e);
+})
+
+
