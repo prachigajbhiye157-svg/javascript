@@ -1,4 +1,4 @@
-let singup=()=>{
+let formValidate=()=>{
   let Name=  document.querySelector('#name').value
   let Num=  document.querySelector('#number').value
   let Email=  document.querySelector('#email').value
@@ -91,5 +91,5 @@ let Login=()=>{
 };
 
 
-  
+    
 

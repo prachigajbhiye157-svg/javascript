@@ -42,4 +42,4 @@ let prachi=()=>{
     //alert("Hello from Arrow fun");
     document.write("hello Arrow");
 
-}
+};
